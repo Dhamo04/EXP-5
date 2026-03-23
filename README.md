@@ -29,9 +29,29 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+Circuit Diagram:
 
-V-I & REGULATION CHARACTERISTICS:
+Line regualtion:
+
+<img width="738" height="271" alt="Screenshot 2026-03-23 203641" src="https://github.com/user-attachments/assets/3e518158-d40d-4e4b-a33f-287cad3ed22e" />
+<img width="1060" height="590" alt="Screenshot 2026-02-25 102806" src="https://github.com/user-attachments/assets/ff14f891-d01c-4874-9e1b-346fcae75981" />
+
+Load regulation:
+
+<img width="773" height="319" alt="Screenshot 2026-03-23 203832" src="https://github.com/user-attachments/assets/7f261d9d-1bbc-48e9-af97-be403b7dae94" />
+<img width="732" height="418" alt="Screenshot 2026-02-25 103748" src="https://github.com/user-attachments/assets/e7400a90-132c-46e7-8862-08ced3f942e6" />
+
+Tabulation:
+
+Line regualtion:
+
+<img width="666" height="349" alt="Screenshot 2026-03-23 204108" src="https://github.com/user-attachments/assets/6a6976e4-2782-44dc-86de-b50182a1a515" />
+
+Load regulation:
+
+<img width="683" height="364" alt="Screenshot 2026-03-23 204217" src="https://github.com/user-attachments/assets/55e4edf9-abb6-47a0-8d1f-4fb52e8493e2" />
+
+
 
 PRECAUTIONS:
 
